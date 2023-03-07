@@ -1,3 +1,4 @@
-# Algoritmi-e-programmazione
+# Algoritmi e programmazione
 Weekly Lab Project
+
 Exam Project
